@@ -1,0 +1,15 @@
+{
+  "name": "dc-effects",
+  "version": "0.1.0",
+  "description": "Double Continuation based effect system",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "pegjs": "^0.10.0"
+  },
+  "devDependencies": {
+    "jest": "^27.0.0"
+  }
+}
